@@ -1,0 +1,26 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/consultation/consultation",
+        "pages/basicHandle/basicHandle",
+        "pages/otherService/otherService",
+        "pages/companyEnter/companyEnter",
+        "pages/basicHandle/businessRegister/businessRegister",
+        "pages/policyDocument/policyDocument",
+        "pages/basicHandle/foreignTrade/foreignTrade",
+        "pages/otherService2/otherService2",
+        "pages/consultation/alwaysquestions",
+        "pages/otherService3/customer_service",
+        "pages/basicHandle/electronIc/electron_ic",
+        "pages/otherService2/enterprise_financing"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "一站式服务",
+        "navigationBarBackgroundColor": "#4080E6",
+        "backgroundColor": "#F8F8F8"
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

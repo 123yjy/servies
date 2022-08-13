@@ -1,0 +1,140 @@
+.form {
+  padding-bottom: 100rpx;
+  .form-section {
+    padding: 0 20rpx;
+    background-color: #fff;
+    margin: 10rpx 0 20rpx;
+  }
+  
+  .form-item {
+    display: flex;
+    align-items: center;
+    padding: 30rpx 15rpx;
+    justify-content: space-between;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid #efefef;
+    }
+
+    .label {
+      width: 200rpx;
+      @include cs(#333, 30rpx);
+      font-weight: 500;
+    }
+    
+    .input {
+      flex: 1;
+      font-size: 30rpx;
+    }
+    
+    .label-long {
+      width: 400rpx;
+    }
+    
+    .radio {
+      margin-left: 40rpx;
+    }
+    
+    /deep/ .area-picker .input-value-border {
+      border: none;
+    }
+    /deep/ .area-picker .placeholder {
+      font-size: 30rpx;
+    }
+    /deep/ .area-picker .input-value {
+      padding: 0;
+    }
+    /deep/ .area-picker .selected-list {
+      padding: 0;
+      font-size: 30rpx;
+    }
+  }
+  .form-item-pre {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30rpx 15rpx 0;
+    &:last-child {
+      padding-bottom: 30rpx;
+    }
+    .label {
+      width: 100%;
+      font-size: 30rpx;
+    }
+    .textarea {
+      width: 100%;
+      margin-top: 20rpx;
+      background-color: #F6F6F6;
+      border-radius: 10rpx;
+      padding: 20rpx;
+      font-size: 30rpx;
+      .uni-textarea-placeholder {
+        font-size: 28rpx;
+      }
+    }
+    .input {
+      width: 100%;
+      padding: 35rpx;
+      background-color: #EFEFEF;
+      border-radius: 6rpx;
+      margin-top: 20rpx;
+    }
+    .upload-box {
+      width: 100%;
+      // display: flex;
+      // justify-content: space-between;
+      .upload-card {
+        // flex: 1;
+      }
+    }
+  }
+  
+  .form-item-other {
+    background-color: #F6F6F6;
+    .add-btn {
+      color: #4794F2;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      .iconfont {
+        margin-right: 10rpx;
+        font-size: 30rpx;
+      }
+    }
+  }
+  
+  .small-title {
+    @include cs(#333, 36rpx);
+    font-weight: bold;
+    padding: 25rpx 35rpx 20rpx;
+  }
+  
+  .form-btn {
+    padding: 0 35rpx;
+    margin-top: 50rpx;
+    display: flex;
+    justify-content: space-between;
+    .btn {
+      border-radius: 10rpx;
+      text-align: center;
+      line-height: 100rpx;
+      @include cs(#fff,48rpx);
+      letter-spacing: 10rpx;
+    }
+    .submit-btn {
+      @include wh(100%, 100rpx);
+      background: linear-gradient(90deg, #4080E6, #4FAAFF);
+      letter-spacing: 20rpx;
+    }
+    .pre-btn {
+      width: 284rpx;
+      background-color: #fff;
+      color: #333;
+    }
+    .finish-btn {
+      width: 284rpx;
+      background: linear-gradient(90deg, #4080E6, #4FAAFF);
+    }
+  }
+}

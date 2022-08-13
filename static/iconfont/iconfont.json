@@ -1,0 +1,254 @@
+{
+  "id": "2839680",
+  "name": "一站式服务",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21167612",
+      "name": "右箭头",
+      "font_class": "arrow-right",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "24656610",
+      "name": "咨询",
+      "font_class": "zixun",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "24656611",
+      "name": "入驻",
+      "font_class": "ruzhu",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "24656612",
+      "name": "勾1",
+      "font_class": "gou",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "24656613",
+      "name": "留言",
+      "font_class": "liuyan",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "24656614",
+      "name": "经营",
+      "font_class": "jingying",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "24656615",
+      "name": "入驻管理",
+      "font_class": "ruzhuguanli",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "24656616",
+      "name": "申领",
+      "font_class": "shenling",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "24656617",
+      "name": "外汇买卖",
+      "font_class": "waihuimaimai",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "24656618",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "24656619",
+      "name": "政策",
+      "font_class": "zhengce",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "24656620",
+      "name": "基础",
+      "font_class": "jichu",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "24656621",
+      "name": "装修",
+      "font_class": "zhuangxiu",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "24656622",
+      "name": "新增 (1)",
+      "font_class": "add",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "24656623",
+      "name": "报关单管理1",
+      "font_class": "baoguandanguanli1",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "24656624",
+      "name": "税务",
+      "font_class": "shuiwu",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "24656625",
+      "name": "代办",
+      "font_class": "daiban",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "24656626",
+      "name": "流程",
+      "font_class": "liucheng",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "24656627",
+      "name": "常见问题",
+      "font_class": "changjianwenti",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "24656628",
+      "name": "证件",
+      "font_class": "zhengjian",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "24656629",
+      "name": "填写报告1",
+      "font_class": "tianxiebaogao1",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "24656630",
+      "name": "人力招聘",
+      "font_class": "renlizhaopin",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "24656631",
+      "name": "知识",
+      "font_class": "zhishi",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "24656632",
+      "name": "特色",
+      "font_class": "tese",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "24656633",
+      "name": "待办事项",
+      "font_class": "daibanshixiang",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "24656634",
+      "name": "填写报告",
+      "font_class": "tianxiebaogao",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "24656635",
+      "name": "表单",
+      "font_class": "biaodan",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "24656636",
+      "name": "其他设置",
+      "font_class": "qitashezhi",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "24656637",
+      "name": "进出口",
+      "font_class": "jinchukou",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "24656638",
+      "name": "物流",
+      "font_class": "wuliu",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "24656639",
+      "name": "咨询管理",
+      "font_class": "zixunguanli",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "24656640",
+      "name": "考核",
+      "font_class": "kaohe",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "24656641",
+      "name": "金融",
+      "font_class": "jinrong",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "24656642",
+      "name": "合同",
+      "font_class": "hetong",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "24656643",
+      "name": "税收",
+      "font_class": "shuishou",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    }
+  ]
+}

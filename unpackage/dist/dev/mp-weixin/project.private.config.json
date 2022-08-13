@@ -1,0 +1,90 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/companyEnter/companyEnter",
+                    "pathName": "pages/companyEnter/companyEnter",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/basicHandle/businessRegister/businessRegister",
+                    "pathName": "pages/basicHandle/businessRegister/businessRegister",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "工商注册",
+                    "pathName": "pages/basicHandle/businessRegister/businessRegister",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/companyEnter/companyEnter",
+                    "pathName": "pages/companyEnter/companyEnter",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/basicHandle/businessRegister/businessRegister",
+                    "pathName": "pages/basicHandle/businessRegister/businessRegister",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/basicHandle/foreignTrade/foreignTrade",
+                    "pathName": "pages/basicHandle/foreignTrade/foreignTrade",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/basicHandle/foreignTrade/foreignTrade",
+                    "pathName": "pages/basicHandle/foreignTrade/foreignTrade",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/otherService2/otherService2",
+                    "pathName": "pages/otherService2/otherService2",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/consultation/alwaysquestions",
+                    "pathName": "pages/consultation/alwaysquestions",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/otherService3/customer_service",
+                    "pathName": "pages/otherService3/customer_service",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/basicHandle/electronIc/electron_ic",
+                    "pathName": "pages/basicHandle/electronIc/electron_ic",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/otherService2/enterprise_financing",
+                    "pathName": "pages/otherService2/enterprise_financing",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

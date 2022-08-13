@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "工商注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-data-picker": "/components/uni-data-picker/uni-data-picker",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-swipe-action-item/uni-swipe-action-item",
+    "file-upload": "/components/fileUpload"
+  }
+}

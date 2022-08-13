@@ -1,0 +1,235 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content.data-v-19e648f4 {
+  background-color: #f0f0f0;
+}
+.content .title3.data-v-19e648f4 {
+  font-size: 36rpx;
+  color: #999999;
+  font-weight: bold;
+  margin: 25rpx 420rpx 23rpx 36rpx;
+}
+.content .body1.data-v-19e648f4 {
+  background-color: #FFFFFF;
+  padding-left: 30rpx;
+}
+.content .body1 .inp.data-v-19e648f4 {
+  display: flex;
+  border-bottom: 1rpx solid #EFEFEF;
+}
+.content .body1 .inp .left.data-v-19e648f4 {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333333;
+  padding-top: 30rpx;
+  padding-bottom: 31rpx;
+  flex: 1;
+}
+.content .body1 .inp .icon-arrow-right.data-v-19e648f4 {
+  margin-top: 38rpx;
+  margin-right: 37rpx;
+}
+.content .body1 .inp .in.data-v-19e648f4 {
+  flex: 1;
+  text-align: right;
+  padding-right: 19rpx;
+  padding-top: 30rpx;
+  padding-bottom: 31rpx;
+}
+.content .body1 .inp .unit1.data-v-19e648f4 {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333333;
+  padding-top: 30rpx;
+  padding-bottom: 31rpx;
+  margin-right: 45rpx;
+}
+.content .end.data-v-19e648f4 {
+  height: 336rpx;
+}
+.content .end .tit2.data-v-19e648f4 {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #333333;
+  margin-top: 29rpx;
+  margin-left: 7rpx;
+}
+.content .end .way.data-v-19e648f4 {
+  margin-left: -35rpx;
+  text-align: center;
+  color: #999999;
+  margin-bottom: 32rpx;
+}
+.content .end .left.data-v-19e648f4 {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #333333;
+  padding-top: 30rpx;
+  padding-bottom: 11rpx;
+  flex: 1;
+}
+.content .small.data-v-19e648f4 {
+  border: 2rpx solid #E3E3E3;
+  color: #999999;
+  border-radius: 6rpx;
+  float: left;
+  margin-left: 2rpx;
+  margin-right: 30rpx;
+  margin-top: 33rpx;
+  padding: 10rpx 19rpx;
+}
+.content .window.data-v-19e648f4 {
+  border: 1rpx solid #E3E3E3;
+  height: 100rpx;
+  margin-bottom: 10rpx;
+  background-color: #FFFFFF;
+  padding-top: 30rpx;
+}
+.content .body2.data-v-19e648f4 {
+  margin: 139rpx 34rpx 46rpx 35rpx;
+  display: flex;
+}
+.content .body2 .btn1 button.data-v-19e648f4 {
+  width: 284rpx;
+  height: 100rpx;
+  background: #FFFFFF;
+  border-radius: 10rpx;
+  color: #333333;
+  font-size: 45rpx;
+  font-weight: bold;
+  letter-spacing: 20rpx;
+  margin-right: 113rpx;
+  line-height: 96rpx;
+  margin-left: 22rpx;
+}
+.content .body2 .btn2 button.data-v-19e648f4 {
+  background: linear-gradient(90deg, #4080E6, #4FAAFF);
+  border-radius: 10rpx;
+  font-size: 45rpx;
+  width: 284rpx;
+  height: 100rpx;
+  font-weight: bold;
+  color: #FFFFFF;
+  letter-spacing: 20rpx;
+  line-height: 96rpx;
+  margin-left: -35rpx;
+}
+.content.data-v-19e648f4 {
+  background-color: #f0f0f0;
+}
+.content .title.data-v-19e648f4 {
+  color: #999999;
+  font-size: 36rpx;
+  padding: 35rpx 364rpx 36rpx 23rpx;
+}
+.content .input.data-v-19e648f4 {
+  border-bottom: 1px solid #EFEFEF;
+  display: flex;
+  width: 710rpx;
+}
+.content .input .unit.data-v-19e648f4 {
+  flex: 0.2;
+  padding-top: 31rpx;
+  font-size: 30rpx;
+  color: #333333;
+  margin-left: -19rpx;
+}
+.content .input .icon-arrow-right.data-v-19e648f4 {
+  margin-top: 34rpx;
+  margin-right: 37rpx;
+}
+.content .input .in.data-v-19e648f4 {
+  color: #999999;
+  font-size: 30rpx;
+  text-align: right;
+  flex: 1;
+  padding-top: 29rpx;
+  width: 401rpx;
+  margin-right: 28rpx;
+  float: right;
+}
+.content .input .in .dz.data-v-19e648f4 {
+  text-align: left;
+  width: 368rpx;
+  float: right;
+  padding-right: 79rpx;
+  margin-right: -104rpx;
+}
+.content .left1.data-v-19e648f4 {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  padding-top: 29rpx;
+  padding-bottom: 29rpx;
+}
+.content .text1.data-v-19e648f4 {
+  width: 750rpx;
+  height: 981rpx;
+  background: #FFFFFF;
+  padding: 0rpx 331rpx 31rpx 35rpx;
+}
+.content .text2.data-v-19e648f4 {
+  width: 750rpx;
+  height: 286rpx;
+  background: #FFFFFF;
+  padding: 0rpx 331rpx 31rpx 35rpx;
+  margin-bottom: 8rpx;
+}
+.content .text3.data-v-19e648f4 {
+  width: 750rpx;
+  height: 286rpx;
+  background: #FFFFFF;
+  padding: 0rpx 331rpx 31rpx 35rpx;
+  margin-bottom: 8rpx;
+}
+.content .text4.data-v-19e648f4 {
+  width: 750rpx;
+  height: 325rpx;
+  background: #FFFFFF;
+  padding: 30rpx 331rpx 31rpx 35rpx;
+}
+.content button.data-v-19e648f4 {
+  width: 680rpx;
+  height: 100rpx;
+  background: linear-gradient(90deg, #4080E6, #4FAAFF);
+  border-radius: 10px;
+  margin: 50rpx 32rpx 52rpx 38rpx;
+  color: #ffffff;
+  letter-spacing: 20rpx;
+}
+.data-v-19e648f4 .input-value-border {
+  border: none !important;
+}
+.data-v-19e648f4 .input-value {
+  line-height: 42rpx !important;
+}
+.active.data-v-19e648f4 {
+  color: #ffffff !important;
+  background: linear-gradient(90deg, #4080E6, #4FAAFF);
+}
+

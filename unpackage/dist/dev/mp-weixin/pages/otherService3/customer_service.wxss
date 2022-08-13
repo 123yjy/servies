@@ -1,0 +1,132 @@
+
+.content.data-v-769ff02e{
+    background-color: #f0f0f0;
+}
+  /* .icon-jiqiren{
+    width: 57px;
+    height: 53px;
+    border: ;
+  } */
+.icon.data-v-769ff02e{
+    width: 80rpx;
+    height: 80rpx;
+    background: linear-gradient(90deg, #4080E6, #4FAAFF);
+    border-radius: 50%;
+    margin-top: 36rpx;
+    margin-left: 20rpx;
+    padding-top: 12rpx;
+    padding-left: 12rpx;
+    padding-right: 20rpx;
+    /* display: flex; */
+}
+.icon .iconfont.data-v-769ff02e{
+    padding: 4rpx 4rpx 13rpx;
+    color: #FFFFFF;
+    font-size: 50rpx;
+}
+.one.data-v-769ff02e{
+    background-color: #FFFFFF;
+    width: 513rpx;
+    height: 178.3rpx;
+    border-top-left-radius: 0rpx;
+    border-top-right-radius: 30rpx;
+    border-bottom-right-radius: 30rpx;
+    border-bottom-left-radius: 30rpx;
+    margin-top: -51rpx;
+    margin-left: 120rpx;
+    margin-right: 117rpx;
+    padding: 23rpx 25rpx 34rpx 21rpx;
+    font-size: 30rpx;
+    font-family: PingFang SC;
+    font-weight: bold;
+    color: #333333;
+    /* line-height: 30rpx; */
+}
+.two.data-v-769ff02e{
+    background-color: #FFFFFF;
+    padding: 25rpx;
+    width: 710rpx;
+    /* height: 455rpx; */
+    margin: 31rpx 20rpx 10rpx;
+    color: #333333;
+    font-size: 30rpx;
+    font-weight: bold;
+    font-family: PingFang SC;
+    border-radius: 20rpx;
+    /* padding-bottom: 10rpx; */
+    line-height: 62rpx;
+}
+.two .text1.data-v-769ff02e{
+    /* height: 80rpx; */
+    border-bottom: 1px solid #ECECEC ;
+}
+.two .text2.data-v-769ff02e{
+    /* height: 88rpx; */
+    border-bottom: 1px solid #ECECEC ;
+    padding-top: 25rpx;
+}
+.two .text3.data-v-769ff02e{
+    /* height: 88rpx; */
+    border-bottom: 1px solid #ECECEC ;
+    padding-top: 25rpx;
+}
+.two .text4.data-v-769ff02e{
+    /* height: 88rpx; */
+    border-bottom: 1px solid #ECECEC ;
+    padding-top: 25rpx;
+}
+.two .text5.data-v-769ff02e{
+    /* height: 88rpx; */
+    padding-top: 25rpx;
+}
+  /* .two span{
+    float: right;
+    transform: rotate(90deg);
+  } */
+.two .icon-xiajiantou.data-v-769ff02e{
+    float: right;
+    color: #999999;
+    font-size: 30rpx;
+}
+.three.data-v-769ff02e{
+    width: 750rpx;
+    height: 120rpx;
+    background-color: #FFFFFF;
+  /* margin-top: 366rpx; */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.three .text.data-v-769ff02e{
+    width: 540rpx;
+    height: 85rpx;
+    border-radius: 43rpx;
+    background-color: #F0F0F0;
+      display: flex;
+    margin: 18rpx 0 17rpx 22rpx;
+    padding: 28rpx 0 28rpx 53rpx;
+}
+textarea.data-v-769ff02e{ 
+    height:33rpx;
+    font-size: 30rpx;
+    /* width: 540rpx; */
+}
+button.data-v-769ff02e{
+    /* display: flex; */
+    /* margin-right: 20rpx; */
+    color: #FFFFFF;
+     width: 148rpx;
+     height: 85rpx;
+     background: linear-gradient(90deg, #4080E6, #4FAAFF);
+     border-radius: 43px;
+     /* margin: 18rpx 20rpx 17rpx 582rpx; */
+     font-size: 36rpx;
+     font-family: PingFang SC;
+     font-weight: bold;
+     /* padding: 38rpx 25rpx; */
+     margin-right: 20rpx;
+}
+
